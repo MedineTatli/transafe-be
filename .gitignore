@@ -13,7 +13,6 @@ hs_err_pid*
 ## Gradle
 ##############################
 bin/
-build/
 .gradle
 .gradletasknamecache
 gradle-app.setting

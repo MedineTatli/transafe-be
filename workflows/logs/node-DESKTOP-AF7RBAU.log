@@ -1,0 +1,93 @@
+[INFO ] 2022-06-17T15:21:37,343Z [Test worker] internal.TestCordappImpl. - Generating CorDapp jar from local project in C:\Users\MedineTatli\Desktop\Transafe\transafe-be\workflows ... {}
+[INFO ] 2022-06-17T15:21:37,574Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2022-06-17T15:21:39,238Z [Connection worker] internal.TestCordappImpl. - Starting Gradle Daemon {}
+[INFO ] 2022-06-17T15:21:40,541Z [Connection worker] internal.TestCordappImpl. - Connecting to Gradle Daemon {}
+[INFO ] 2022-06-17T15:21:40,557Z [Connection worker] internal.TestCordappImpl. - Starting Gradle Daemon {}
+[INFO ] 2022-06-17T15:21:40,557Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2022-06-17T15:21:41,143Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2022-06-17T15:21:41,158Z [Connection worker] internal.TestCordappImpl. - Evaluate settings {}
+[INFO ] 2022-06-17T15:21:41,579Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2022-06-17T15:21:41,600Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2022-06-17T15:21:41,600Z [Connection worker] internal.TestCordappImpl. - Load projects {}
+[INFO ] 2022-06-17T15:21:41,762Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2022-06-17T15:21:41,762Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2022-06-17T15:21:42,285Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :classpath {}
+[INFO ] 2022-06-17T15:21:42,911Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2022-06-17T15:21:42,911Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2022-06-17T15:21:42,981Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2022-06-17T15:21:42,981Z [Connection worker] internal.TestCordappImpl. - Resolve files of :classpath {}
+[INFO ] 2022-06-17T15:21:42,981Z [Connection worker] internal.TestCordappImpl. - Configure project : {}
+[INFO ] 2022-06-17T15:21:43,742Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2022-06-17T15:21:43,742Z [Connection worker] internal.TestCordappImpl. - Configure project :clients {}
+[INFO ] 2022-06-17T15:21:43,863Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2022-06-17T15:21:43,863Z [Connection worker] internal.TestCordappImpl. - Configure project :contracts {}
+[INFO ] 2022-06-17T15:21:43,903Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2022-06-17T15:21:43,903Z [Connection worker] internal.TestCordappImpl. - Configure project :workflows {}
+[INFO ] 2022-06-17T15:21:44,014Z [Connection worker] internal.TestCordappImpl. - Configure build {}
+[INFO ] 2022-06-17T15:21:44,014Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2022-06-17T15:21:44,165Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2022-06-17T15:21:44,206Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2022-06-17T15:21:44,246Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:compileClasspath {}
+[INFO ] 2022-06-17T15:21:44,428Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2022-06-17T15:21:44,428Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:compileClasspath {}
+[INFO ] 2022-06-17T15:21:44,469Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2022-06-17T15:21:44,469Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:annotationProcessor {}
+[INFO ] 2022-06-17T15:21:44,489Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2022-06-17T15:21:44,489Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:annotationProcessor {}
+[INFO ] 2022-06-17T15:21:44,489Z [Connection worker] internal.TestCordappImpl. - Task :contracts:compileJava {}
+[INFO ] 2022-06-17T15:21:44,509Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2022-06-17T15:21:44,509Z [Connection worker] internal.TestCordappImpl. - Task :contracts:processResources {}
+[INFO ] 2022-06-17T15:21:44,529Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2022-06-17T15:21:44,529Z [Connection worker] internal.TestCordappImpl. - Task :contracts:classes {}
+[INFO ] 2022-06-17T15:21:44,529Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2022-06-17T15:21:44,529Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2022-06-17T15:21:44,529Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :contracts:runtime {}
+[INFO ] 2022-06-17T15:21:44,610Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2022-06-17T15:21:44,610Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2022-06-17T15:21:44,630Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2022-06-17T15:21:44,630Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2022-06-17T15:21:44,630Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2022-06-17T15:21:44,630Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2022-06-17T15:21:44,630Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2022-06-17T15:21:44,630Z [Connection worker] internal.TestCordappImpl. - Resolve files of :contracts:runtime {}
+[INFO ] 2022-06-17T15:21:44,630Z [Connection worker] internal.TestCordappImpl. - Task :contracts:configureCordappFatJar {}
+[INFO ] 2022-06-17T15:21:44,652Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2022-06-17T15:21:44,652Z [Connection worker] internal.TestCordappImpl. - Task :contracts:jar {}
+[INFO ] 2022-06-17T15:21:44,652Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2022-06-17T15:21:44,670Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2022-06-17T15:21:44,670Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:compileClasspath {}
+[INFO ] 2022-06-17T15:21:44,711Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2022-06-17T15:21:44,711Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:compileClasspath {}
+[INFO ] 2022-06-17T15:21:44,711Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2022-06-17T15:21:44,711Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:annotationProcessor {}
+[INFO ] 2022-06-17T15:21:44,711Z [Connection worker] internal.TestCordappImpl. - Task :workflows:compileJava {}
+[INFO ] 2022-06-17T15:21:44,731Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2022-06-17T15:21:44,731Z [Connection worker] internal.TestCordappImpl. - Task :workflows:processResources {}
+[INFO ] 2022-06-17T15:21:44,731Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2022-06-17T15:21:44,731Z [Connection worker] internal.TestCordappImpl. - Task :workflows:classes {}
+[INFO ] 2022-06-17T15:21:44,731Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2022-06-17T15:21:44,731Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2022-06-17T15:21:44,731Z [Connection worker] internal.TestCordappImpl. - Resolve dependencies of :workflows:runtime {}
+[INFO ] 2022-06-17T15:21:44,771Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2022-06-17T15:21:44,771Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2022-06-17T15:21:44,771Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2022-06-17T15:21:44,771Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2022-06-17T15:21:44,771Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2022-06-17T15:21:44,771Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2022-06-17T15:21:44,771Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2022-06-17T15:21:44,771Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2022-06-17T15:21:44,771Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2022-06-17T15:21:44,771Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2022-06-17T15:21:44,771Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2022-06-17T15:21:44,771Z [Connection worker] internal.TestCordappImpl. - Resolve files of :workflows:runtime {}
+[INFO ] 2022-06-17T15:21:44,771Z [Connection worker] internal.TestCordappImpl. - Task :workflows:configureCordappFatJar {}
+[INFO ] 2022-06-17T15:21:44,771Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2022-06-17T15:21:44,771Z [Connection worker] internal.TestCordappImpl. - Task :workflows:jar {}
+[INFO ] 2022-06-17T15:21:46,699Z [Connection worker] internal.TestCordappImpl. - Run tasks {}
+[INFO ] 2022-06-17T15:21:46,699Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2022-06-17T15:21:46,714Z [Connection worker] internal.TestCordappImpl. - Build model 'java.lang.Void' for project ':workflows' {}
+[INFO ] 2022-06-17T15:21:46,714Z [Connection worker] internal.TestCordappImpl. - Run build {}
+[INFO ] 2022-06-17T15:21:46,715Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2022-06-17T15:21:46,730Z [Connection worker] internal.TestCordappImpl. - Deleting unused version-specific caches in C:\Users\MedineTatli\Desktop\Transafe\transafe-be\.gradle {}
+[INFO ] 2022-06-17T15:21:46,730Z [Connection worker] internal.TestCordappImpl. - Build {}
+[INFO ] 2022-06-17T15:21:46,760Z [Connection worker] internal.TestCordappImpl. -  {}
